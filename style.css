@@ -1,0 +1,64 @@
+body {
+    padding: 10px 50px;
+    border: 10px;
+}
+
+.formdesign {
+    font-size: 20px;
+
+}
+#gender {
+    font-size: 20px;
+
+}
+#web{
+    font-size: 20px;
+}
+#skill{
+    font-size: 20px;
+}
+#name{
+    font-size: 20px;
+}
+#email{
+    font-size: 20px;
+}
+#phone{
+    font-size: 20px;
+}
+#pass{
+    font-size: 20px;
+}
+#cpass{
+    font-size: 20px;
+}
+#head{
+    color: purple;
+    border: 2px;
+    background: yellow;
+    text-align: center;
+}
+
+
+
+
+.formdesign input {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid black;
+    margin: 4px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.formerror {
+    color: red;
+}
+
+.but {
+    border-radius: 9px;
+    width: 70px;
+    height: 40px;
+    font-size: 18px;
+    margin: 22px 20px;
+}
